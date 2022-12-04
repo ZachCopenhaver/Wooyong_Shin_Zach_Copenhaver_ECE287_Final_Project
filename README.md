@@ -1,1 +1,4 @@
 # Wooyong_Shin_Zach_Copenhaver_ECE287_Final_Project
+  This is the respository for the game that Wooyong Shin and Zach Copenhaver made on a DE2-115 FPGA for our end of semester project for ECE287. The files for the completed game can be found in the branch labeled "Complete_Game". 
+
+  In the process of making this game, we tried using two different VGA modules that we got from two different people. At first we tried using a module called vga-adapter.v that we got from Jacob Gardner. We encountered numerous issues and difficulties when using this vga, most notably we could not figure out how to draw images and make them move on their own. Eventually we switched to using a vga module that we got from Mika Burmester. We were able to figure out this vga and did not have as many issues and therefore made our project around it. Every project using a module titled vga.v uses the vga given by Mika Burmester. 
